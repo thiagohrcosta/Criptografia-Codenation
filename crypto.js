@@ -42,5 +42,5 @@ axios.get(apiUrl+myToken)
 
     result.data.resumo_criptografico = sha1(decryptedCode);
 
-    console.log(decryptedCode)
+    fs.writeFileSync("answer.json", JSON.stringify(result.data, null, 2));
 })

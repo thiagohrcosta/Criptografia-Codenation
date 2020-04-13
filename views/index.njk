@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+        {% block head%}
+            <title>CRIPTOGRAFIA</title>
+        {% endblock %}
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="styles.css">
+        <script src="https://kit.fontawesome.com/d45b7ae9b8.js" crossorigin="anonymous"></script>
+
+
+    </head>
+    <body>
+
+        <div class="container">
+            <h1>SISTEMA DE CRIPTOGRAFIA JULIO CÉSAR</h1>
+            <h2>Projeto apresentado como condição de ingresso no Curso de Desenvolvimento Java da CODENATION</h2>
+
+            <div>
+
+                <div class="criptoCode">
+                    <h1>
+                        Código Cifrado:</h1>
+                    <p class="code">"gjy uif dbvtf, opu uif tznqupn. tufwf nbhvjsf"</p>
+                    <h1>
+                        Código Decifrado:</h1>
+                    <p class="code">"fix the cause, not the symptom. steve maguire "</p>
+                </div>
+
+            </div>
+
+            <footer>
+                <p>Desenvolvido por <span>Thiago H. R. Costa</span> 2020 - visite meu <a href="https://github.com/thiagohrcosta"><i class="fab fa-github"></i></a></p>
+            </footer>
+
+            <!-- usando Nunjucks -->
+
+            {% block content %}{% endblock %}
+
+        </body>
+    </html>

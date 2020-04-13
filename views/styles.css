@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Oldenburg&display=swap');
+
+
+
+/* CSS */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background: #204051;
+    font-family: 'Oldenburg', cursive;
+    color: #84a9ac;
+}
+
+.container{
+    margin: 300px auto;
+    text-align: center;
+    align-items: center;
+    line-height: 50px;
+}
+
+.criptoCode{
+    margin: 30px auto;
+    padding: 10px;
+    width: 600px;
+    background-color: #84a9ac ;
+    border-radius: 30px;
+    color: #204051;
+
+}
+
+footer{
+    font-size: 22px;
+}
+.fa-github{
+    color: #84a9ac;
+}
+
+.fa-github:hover{
+    color: #cae8d5;
+}
