@@ -1,7 +1,7 @@
 
 # JULIO CESAR CYPHER - CODENATION
-
-Projeto apresentado como condição para a aprovação e ingresso no curso [AceleraDev Java] (https://www.codenation.dev/aceleradev/java-online-3/) da [CODENATION](https://www.codenation.dev/)
+![enter image description here](https://github.com/thiagohrcosta/Criptografia-Codenation/blob/master/views/imgs/juliocesar.jpg?raw=true)
+Projeto apresentado como condição para a aprovação e ingresso no curso [AceleraDev Java](https://www.codenation.dev/aceleradev/java-online-3) da [CODENATION](https://www.codenation.dev/) cuja nota de corte é de 100/100. 
 
 # Problema a ser solucionado
 
@@ -58,6 +58,8 @@ O resultado da submissão vai ser sua nota ou o erro correspondente. Você pode 
 *  Desenvolvimento da função submit(), posteriormente chamada dentro do axios.get para enviar a solução do problema para a CODENATION.
 * Utilização do nunjucks para criar simples página HTML com CSS, para mostrar dados estáticos do arquivo criptografado e a resposta descriptografada.
 
+# Aprovação
+![enter image description here](https://github.com/thiagohrcosta/Criptografia-Codenation/blob/master/views/imgs/aprovado.jpg?raw=true)
 
 ## O que foi utilizado no desenvolvimento do projeto?
 Foi utilizado na presente aplicação o seguinte:

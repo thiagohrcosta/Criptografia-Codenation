@@ -4,7 +4,7 @@ const request = require("request");
 const sha1 = require("sha1");
 
 const apiUrl = "https://api.codenation.dev/v1/challenge/dev-ps/generate-data?token="
-const myToken = "964e02a74826cf07042e7d0f79ff5ab6d514f382"
+const myToken = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 const postRoute = "https://api.codenation.dev/v1/challenge/dev-ps/submit-solution?token="
 
